@@ -1,6 +1,6 @@
 while(True):
-    print("(n)")
-    print("(r)")
+    print("C(n,r)")
+   
 
     n=int(input("n= "))
     r=int(input("r= "))
@@ -19,6 +19,6 @@ while(True):
         r1=r*r1
         r-=1
         x+=1
-
+    print("\n ")
     print(int(n1/r1))
-    print("\n \n \n")
+    print("\n ")
