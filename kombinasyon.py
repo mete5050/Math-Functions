@@ -1,4 +1,4 @@
-While(True):
+while(True):
     print("(n)")
     print("(r)")
 
