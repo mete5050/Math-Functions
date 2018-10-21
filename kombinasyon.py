@@ -20,4 +20,4 @@ while(True):
         r-=1
         x+=1
 
-    print(int(n1/r1))
+    print(int(n1/r1)"\n \n \n")
